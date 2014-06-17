@@ -7,7 +7,7 @@
 * @brief CRC16 routines (polynom x^16+x^15+x^2+1, seed 0xFFFF).
 ******************************************************************************
 */
-/** @defgroup CRC16_Private_Variables
+/** @defgroup CRC16_Private_Variables k
 * @{
 */
 
